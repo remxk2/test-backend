@@ -1,7 +1,7 @@
 
 # Instruções
 
-- Deve ser feito em NodeJS
+- Deve ser feito em NodeJS, pode ser TypeScript.
 - Evite usar pacotes extras para funcionalidades simples.
 - Deve persistir os dados em um banco de dados (voce escolhe qual banco usar).
 - Apenas o nivel especificado pelo email é requerido, os outros não serão avaliados.
@@ -18,6 +18,12 @@ Construa um CRUD que permita controlar os clientes de um sistema.
 - Campos obrigatórios devem ser validados
 - Tratar excessões
 
+**O que vamos avaliar?**
+
+- Logica
+- Boas praticas
+- Se seu codigo está organizado
+
 ## Nivel 2:
 
 Construa um CRUD que me permita gerenciar uma plataforma de e-commerce que possui clientes, produtos e pedidos.
@@ -31,6 +37,13 @@ Construa um CRUD que me permita gerenciar uma plataforma de e-commerce que possu
 - Testes e2e
 - Tratar excessões
 - Utilizar corretamente codigos de retorno. (404, 401...)
+
+**O que vamos avaliar?**
+
+- Documentação
+- Boas praticas
+- Segurança
+- Commits
 
 ## Nivel 3:
 
@@ -55,11 +68,13 @@ Deve ser possivel para um administrador gerenciar a plataforma.
 - Testes unitarios
 - Tratar excessões
 
-## O que vamos Avaliar?
+**O que vamos Avaliar?**
 
 - Arquitetura do projeto
-- Se seu codigo está organizado
-- Se está documentado
+- Documentação
 - Boas praticas
 - Segurança
 - Commits
+- Cobertura de testes
+
+
