@@ -76,5 +76,6 @@ Deve ser possivel para um administrador gerenciar a plataforma.
 - Segurança
 - Commits
 - Cobertura de testes
+- Modelagem do banco de dados
 
 
